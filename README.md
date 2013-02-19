@@ -1,2 +1,1 @@
-dingkr.github.com
-=================
+dingk-r.github.com
