@@ -84,7 +84,6 @@ JB :
     provider : disqus
     disqus :
       short_name : FreeDKR
-# disqus_short_name: freedkr
       disqus_show_comment_count: true
     livefyre :
       site_id : 123
@@ -103,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-39254415-1'
     getclicky :
       site_id : 
     mixpanel :
