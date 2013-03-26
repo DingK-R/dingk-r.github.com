@@ -10,7 +10,7 @@ comments: true
 ##[PHP垃圾回收](http://dingk-r.github.com/2013/03/13/PHP_GC)##
 ##[PHP_Reference](http://dingk-r.github.com/2013/03/15/php_reference)##
 ##[Get better](http://dingk-r.github.com/2013/03/16/do-better)##
-##[MySQL 表结构查询](http://dingk-r.github.com/2013/03/26/MySQL)##
+##[MySQL 表结构查询](http://dingk-r.github.com/2013/03/26/mysql)##
 <script type="text/javascript">
 
 var _gaq = _gaq || [];
