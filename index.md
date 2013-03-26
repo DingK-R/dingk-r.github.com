@@ -9,7 +9,8 @@ comments: true
 ##[我的Python之路](http://dingk-r.github.com/2013/03/13/python)##
 ##[PHP垃圾回收](http://dingk-r.github.com/2013/03/13/PHP_GC)##
 ##[PHP_Reference](http://dingk-r.github.com/2013/03/15/php_reference)##
-##[Do better](http://dingk-r.github.com/2013/03/16/do-better)##
+##[Get better](http://dingk-r.github.com/2013/03/16/do-better)##
+##[MySQL 表结构查询](http://dingk-r.github.com/2013/03/26/MySQL)##
 <script type="text/javascript">
 
 var _gaq = _gaq || [];
