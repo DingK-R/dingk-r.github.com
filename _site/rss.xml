@@ -5,10 +5,18 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Your New Jekyll Site</title>
+    <title>寻寻觅觅</title>
     <link>blog url</link>
-    <description>Blogging about stuffs</description>
-    <pubDate>Sun, 10 Nov 2013 18:18:00 +0800</pubDate>
+    <description>码农＋程序＋记录＋吐槽＋音乐＋生活</description>
+    <pubDate>Fri, 30 May 2014 01:24:00 +0800</pubDate>
+    <item>
+      <title>插菊花!</title>
+      <link>blog url/%E5%90%90%E6%A7%BD/2014/05/30/chajuhua.html</link>
+      <description>&lt;p&gt;aaa&lt;/p&gt;
+</description>
+      <pubDate>Fri, 30 May 2014 01:24:00 +0800</pubDate>
+      <dc:date>2014-05-30T01:24:00+08:00</dc:date>
+    </item>
     <item>
       <title>Welcome to Jekyll!</title>
       <link>blog url/jekyll/update/2013/11/10/welcome-to-jekyll.html</link>
@@ -18,6 +26,6 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
       <pubDate>Sun, 10 Nov 2013 18:18:00 +0800</pubDate>
       <dc:date>2013-11-10T18:18:00+08:00</dc:date>
     </item>
-    <dc:date>2013-11-10T18:18:00+08:00</dc:date>
+    <dc:date>2014-05-30T01:24:00+08:00</dc:date>
   </channel>
 </rss>

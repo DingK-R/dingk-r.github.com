@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: 寻寻觅觅
+description: 码农＋程序＋记录＋吐槽＋音乐＋生活
+meta_description: "enjoy life + coding + music"
 
 markdown: redcarpet
 pygments: true
@@ -9,4 +9,4 @@ paginate: 15
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'DKR'
