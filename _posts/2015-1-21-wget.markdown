@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "2015-01-21"
+date:   2015-01-21 15:41:00
+categories: Code
+---
+##### wget 抓取模版
+* wget -r -l2 -c -t 10 -p -np -nc -k -T 30 --restrict-file-names=windows  http://www.yourdomain.com/
+
+    -r    递归（慎用 默认无限层 万一有一个链接指向百度就麻烦了）
+    -l 3  三层深度
+    -c    断点续传
+    -t 10 重试最大次数10
+    -p    下载页面所有内容
+    -np   不向上层递归
+    -nc   不覆盖已有文件
+    -T 30 30秒超时
+    -k    获取相对链接转换
