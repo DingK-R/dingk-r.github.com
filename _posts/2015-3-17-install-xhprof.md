@@ -27,3 +27,8 @@ categories: Code
 	sudo make install
 	
 `如果不是master版本 Homestead环境编译会报错`
+
+### php.ini
+	[xhprof]
+	extension=xhprof.so
+	xhprof.output_dir="/var/tmp/xhprof"
