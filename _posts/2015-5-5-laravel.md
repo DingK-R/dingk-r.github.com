@@ -8,7 +8,9 @@ categories: coding
 ##基本介绍
 ####1. 依赖管理
 [Composer](http://www.phpcomposer.com/what-is-composer/) [Packagist](https://packagist.org/)
-####2. 路由 REST
+####2. 环境
+Vagrant Homestead
+####3. 路由 REST
 <!--![](http://i1.tietuku.com/a2154e28a87da672.jpg)-->
 a. 快速构建API
 
@@ -16,7 +18,7 @@ a. 快速构建API
 	Route::get('about', 'PagesController@about');
 	Route::get('contact', 'PagesController@contact');
 	Route::resource('articles', 'ArticlesController');
-####3. Migrations
+####4. Migrations
 <!--![](http://i1.tietuku.com/91832f8256584d8b.jpg)-->
 a. 方便表的管理
 
@@ -33,7 +35,7 @@ b. 方便迁移，如本地环境搭建
             $table->timestamp('published_at');
         });
     }
-####4. Eloquent
+####5. Eloquent
 <!--![](http://i1.tietuku.com/09360b6d6992a550.jpg)-->
 a. 减少重复SQL, 缩短编码时间
 
@@ -51,7 +53,7 @@ c. 减少数据库学习成本
         return redirect('articles');
 
     }
-####5. Blade
+####6. Blade
 <!--![](http://i1.tietuku.com/caa96298e70ae477.jpg)-->
 a. 模版继承， 模版片段
 
