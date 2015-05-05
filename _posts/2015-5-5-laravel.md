@@ -5,7 +5,7 @@ date:   2015-5-5 14:31:00
 categories: coding
 ---
 
-<center>##基本介绍</center>
+##<center>基本介绍</center>
 ####1. 依赖管理
 [Composer](http://www.phpcomposer.com/what-is-composer/) [Packagist](https://packagist.org/)
 ####2. 路由 REST
