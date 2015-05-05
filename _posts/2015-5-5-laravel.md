@@ -54,7 +54,7 @@ categories: coding
 	@stop
 ##核心思想
 ####1. 依赖注入 (Dependency Injection)
-####2. 控制反转容器 (Inversion of control containers)
+####2. 控制反转容器 (Inversion of control)
 
 
 ####PS:
