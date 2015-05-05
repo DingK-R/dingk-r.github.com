@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laravel 分享"
+title:  ""
 date:   2015-5-5 14:31:00
 categories: coding
 ---
