@@ -36,8 +36,11 @@ b. 方便迁移，如本地环境搭建
 ####4. Eloquent
 <!--![](http://i1.tietuku.com/09360b6d6992a550.jpg)-->
 a. 减少重复SQL, 缩短编码时间
+
 b. 简单 create, save, find, all where ...
+
 c. 减少数据库学习成本
+
 缺点: 内存, 多表的复杂关系
 
 
@@ -51,6 +54,7 @@ c. 减少数据库学习成本
 ####5. Blade
 <!--![](http://i1.tietuku.com/caa96298e70ae477.jpg)-->
 a. 模版继承， 模版片段
+
 b. 基础模型与实现, 更好的组织代码，减少重复
 
 	@extends('app')
@@ -71,5 +75,4 @@ b. 基础模型与实现, 更好的组织代码，减少重复
 ####2. 控制反转容器 (Inversion of control)
 
 
-####PS:
-社区 [PHPub](https://phphub.org)  [Golaravel](http://wenda.golaravel.com/) [Laravel](lavavel.com) [Laracasts](https://laracasts.com)
+####PS: 社区 [PHPub](https://phphub.org)  [Golaravel](http://wenda.golaravel.com/) [Laravel](lavavel.com) [Laracasts](https://laracasts.com)
