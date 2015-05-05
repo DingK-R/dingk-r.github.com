@@ -79,7 +79,6 @@ b. 基础模型与实现, 更好的组织代码，减少重复
     App::bind(‘DocumentInterface’, function()
     {
         return new HtmlDocument;
-        });
     })
 
 
