@@ -76,5 +76,11 @@ b. 基础模型与实现, 更好的组织代码，减少重复
 ####1. 依赖注入 (Dependency Injection) 见代码
 ####2. 控制反转容器 (Inversion of control)
 
+    App::bind(‘BillingNotifierInterface’, function()
+    {
+        return new EmailBillingNotifier;
+        });
+    })
+
 
 ####PS: 社区 [PHPub](https://phphub.org)  [Golaravel](http://wenda.golaravel.com/) [Laravel](lavavel.com) [Laracasts](https://laracasts.com)
