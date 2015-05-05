@@ -15,7 +15,7 @@ categories: coding
 	Route::get('about', 'PagesController@about');
 	Route::get('contact', 'PagesController@contact');
 	Route::resource('articles', 'ArticlesController');
-####3. 迁移与数据填充
+####3. Migrations
 <!--![](http://i1.tietuku.com/91832f8256584d8b.jpg)-->
 	public function up()
     {
@@ -36,7 +36,7 @@ categories: coding
         return redirect('articles');
 
     }
-####5. Blade模版
+####5. Blade
 <!--![](http://i1.tietuku.com/caa96298e70ae477.jpg)-->
 
 	@extends('app')
