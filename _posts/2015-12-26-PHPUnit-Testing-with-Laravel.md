@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “2015-12-26”
+title:  "Phpunit Testing With Laravel"
 date:   2015-12-26 18:34:00
 categories: Code
 ---
