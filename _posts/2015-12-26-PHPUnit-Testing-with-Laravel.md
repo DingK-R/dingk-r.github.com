@@ -1,9 +1,10 @@
 ---
-2 layout: post
-3 title:  “2015-12-26”
-4 date:   2015-12-26 18:34:00
-5 categories: Code
-6 ---
+layout: post
+title:  “2015-12-26”
+date:   2015-12-26 18:34:00
+categories: Code
+---
+
 ### 环境说明
 
 > Mac OS X 10.11.2
