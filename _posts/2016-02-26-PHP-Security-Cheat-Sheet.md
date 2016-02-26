@@ -99,7 +99,9 @@ if (strcmp($supplied_nonce, $correct_nonce) == 0) {
 
 如果攻击者使用如下的查询字符串
 
-```http://example.com/?nonce[]=a```
+```
+http://example.com/?nonce[]=a
+```
 
 会导致`$supplied_nonce`成为数组、`strcmp()`函数会返回NULL（连异常都不会抛出），由于若类型转换和没有使用`===`操作符，校验成功，攻击者可以在不提供原密码的情况下进行密码修改。
 
