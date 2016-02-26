@@ -5,6 +5,10 @@ date:   2015-12-26 18:34:00
 categories: Code
 ---
 
+> 译者：[fisherMartyn](https://github.com/fisherMartyn)
+>
+> 来源：[PHP-SECURITY-CHEAT-SHEET](https://github.com/fisherMartyn/PHP-SECURITY-CHEAT-SHEET)
+
 ##介绍
 
 这篇博客是翻译自OWSAP的[PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)，你可以查看原文。
