@@ -2,6 +2,7 @@ name: 寻寻觅觅
 description: Coding + Muisc + Life
 meta_description: "enjoy life + coding + music"
 
+baseurl: /
 markdown: redcarpet
 pygments: true
 logo: false
