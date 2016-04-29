@@ -1,9 +1,9 @@
- ---
- layout: post
- category: Code
- title: 进制转换
- date: 2016-04-29 11:49:23
- ---
+---
+layout: post
+category: Code
+title: "进制转换"
+date: 2016-04-29 11:49:23
+---
 
 
 十进制转二进制
