@@ -11,3 +11,6 @@ paginate: 15
 # Details for the RSS feed generator
 url:            'http://dingk-r.github.io/rss'
 author:         'DKR'
+
+analytics:
+    provider: custom
